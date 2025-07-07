@@ -41,7 +41,6 @@ nav ul li a:hover {
   color: #FFE4D6;
 }
 
-/* Secciones */
 section {
   padding: 1.5rem 1rem;
   max-width: 900px;
@@ -49,12 +48,10 @@ section {
   scroll-margin-top: 60px;
 }
 
-/* Encabezados sin márgenes excesivos */
 h1, h2, h3 {
   margin: 0.5rem 0;
 }
 
-/* Centrado para listas (UL y OL) */
 section ul,
 section ol {
   display: inline-block;
@@ -63,13 +60,11 @@ section ol {
   margin: 0 auto;
 }
 
-/* Imágenes */
 section img {
   border-radius: 8px;
   margin: 0.5rem;
 }
 
-/* Formulario */
 form {
   display: flex;
   flex-direction: column;
@@ -90,7 +85,6 @@ input, textarea {
   color: #3E3E3E;
 }
 
-/* Botón */
 button {
   background-color: #F4A261;
   color: #FFFFFF;
@@ -106,7 +100,6 @@ button:hover {
   background-color: #E8916C;
 }
 
-/* Footer */
 footer {
   background-color: #fff;
   text-align: center;
